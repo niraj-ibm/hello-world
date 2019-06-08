@@ -1,2 +1,2 @@
 # hello-world
-hello world app.
+Hello world app.
